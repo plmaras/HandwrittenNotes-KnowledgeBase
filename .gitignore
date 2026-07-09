@@ -1,0 +1,7 @@
+.env
+.venv
+chroma_db
+images
+notes
+DS_Store
+eval.py
